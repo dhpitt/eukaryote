@@ -1,0 +1,2 @@
+[console_scripts]
+eukaryote = eukaryote.commands.textattack_cli:main
